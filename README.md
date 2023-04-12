@@ -6,3 +6,5 @@ A página inclui uma seção de cabeçalho com o título "Sorteio de Pessoas", u
 O código também inclui um link para um arquivo de estilo CSS externo chamado "style.css" e um arquivo JavaScript externo chamado "script.js", que contém a função "sortear()" responsável por selecionar aleatoriamente uma das pessoas inseridas no formulário e exibi-la na seção de resultado da página.
 
 Por fim, há uma seção de rodapé com o nome do desenvolvedor "Sandro".
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NClT0zyRBRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
