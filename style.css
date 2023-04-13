@@ -28,7 +28,11 @@ textarea {
   padding: 10px;
   margin-bottom: 10px;
   font-size: 1.2rem;
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
 }
+
 
 button {
   padding: 10px 20px;
